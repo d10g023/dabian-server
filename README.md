@@ -1,2 +1,2 @@
 # dabian-server
-configuração de serviços no debian/ubuntu
+configuração de serviços de rede no debian/ubuntu
