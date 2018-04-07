@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "IP da maqina"
+echo "IP da maquina"
 read ip
 
-echo "User da maquia"
+echo "User da maquina"
 read user
 
 clear
